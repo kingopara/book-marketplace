@@ -15,13 +15,13 @@ AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-[Link to deployed app]()
+[Link to deployed app](https://book-search-engine-app21.herokuapp.com)
 
 [Link to github repo](https://github.com/kingopara/book-search-engine)
 
-## Project Requirements
+![Preview](client/public/assets/preview.png)
 
-GIVEN a book search engine
+## Project Requirements
 
 * WHEN I load the search engine
 
