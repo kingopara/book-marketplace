@@ -1,14 +1,28 @@
 # book-search-engine
 
+## Table of content
+* [Description](#description)
+* [Project Requirements](#projectrequirements)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Badges](#Badges)
+* [Contributing](#contributing)
+
+## Description
 AS AN avid reader
 I WANT to search for new books to read
 SO THAT I can keep a list of books to purchase
 
-
+## Project Requirements
 GIVEN a book search engine
-WHEN I load the search engine
-THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
-WHEN I click on the Search for Books menu option
+* WHEN I load the search engine
+
+    `THEN I am presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button`
+
+* WHEN I click on the Search for Books menu option
+
 THEN I am presented with an input field to search for books and a submit button
 WHEN I am not logged in and enter a search term in the input field and click the submit button
 THEN I am presented with several search results, each featuring a book’s title, author, description, image, and a link to that book on the Google Books site
@@ -34,3 +48,23 @@ WHEN I click on the Remove button on a book
 THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
+
+## Installation
+
+## Usage 
+
+
+## Credit
+This app was made with love and hardwork by Praise Opara
+
+## License
+
+[MIT](https://opensource.org/licenses/MIT)
+
+## Badges
+
+![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+
+## Contributing
+
+![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.0-4baaaa.svg)
