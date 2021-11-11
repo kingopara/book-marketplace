@@ -12,7 +12,9 @@
 
 ## Description
 AS AN avid reader
+
 I WANT to search for new books to read
+
 SO THAT I can keep a list of books to purchase
 
 [Link to deployed app](https://book-search-engine-app21.herokuapp.com)
@@ -88,6 +90,8 @@ From the root of the project, run `npm i` to install all packages
 ## Usage 
 
 Run `npm run develop` from the root of the project to start the front-end client and back-end server
+
+The app opens , and then your can perform the operations listed above.
 
 ## Credit
 This app was made with love and hardwork by Praise Opara
