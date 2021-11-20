@@ -1,4 +1,4 @@
-# book-search-engine
+# readers-library
 
 ## Table of content
 * [Description](#description)
